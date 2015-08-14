@@ -4,7 +4,7 @@
     "to-markdown": "^1.2.1"
   },
   "name": "jstransformer-to-markdown",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "to-markdown support for JSTransformers.",
   "keywords": [
     "jstransformer"
