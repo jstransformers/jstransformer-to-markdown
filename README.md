@@ -14,9 +14,9 @@
 ## API
 
 ```js
-var to-markdown = require('jstransformer')(require('jstransformer-to-markdown'))
+var tomarkdown = require('jstransformer')(require('jstransformer-to-markdown'))
 
-to-markdown.render('<h1>Hello World!</h1>').body
+tomarkdown.render('<h1>Hello World!</h1>').body
 //=> '# Hello World!'
 ```
 
