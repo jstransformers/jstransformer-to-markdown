@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "to-markdown": "^2.0.1"
+    "to-markdown": "^3.0.0"
   },
   "name": "jstransformer-to-markdown",
   "version": "1.0.0",
